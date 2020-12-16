@@ -1,0 +1,14 @@
+.app{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+}
+
+.app p{
+    text-align: justify;
+    margin-top: 10px;
+}
+
+.navbar {
+    position: fixed;
+}
